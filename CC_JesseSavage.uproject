@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -76,10 +76,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MetaHuman",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		},
@@ -90,11 +86,6 @@
 		{
 			"Name": "DisasterRecoveryClient",
 			"Enabled": true
-		},
-		{
-			"Name": "Smartsuit",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7e20fe7d4247410cb4f7d3e162d61c21"
 		},
 		{
 			"Name": "Water",
